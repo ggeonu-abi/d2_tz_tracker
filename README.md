@@ -7,7 +7,10 @@
 ## ☕ 후원하기 (Support)
 이 프로그램이 마음에 드셨다면, 개발자가 더 좋은 기능을 만들 수 있도록 커피 한 잔의 여유를 선물해 주세요! 
 
-* [커피 한 잔 후원하기](https://m-pay.naver.com/send/p2p/gift?receiverId=vellen)
+* [👉 카카오페이로 커피 한 잔 후원하기 (모바일 환경에서 링크 클릭)](https://qr.kakaopay.com/FEnWDeSNr9c407373)
+> PC 환경이신 경우, 아래의 QR 코드를 스마트폰 기본 카메라나 카카오톡 스캔 기능으로 찍어주세요!
+
+<img src="kakaopay.JPG" width="250" alt="카카오페이 후원 QR 코드">
 
 ---
 
