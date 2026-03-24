@@ -20,11 +20,11 @@
 ## 📸 스크린샷 (Screenshots)
 
 ### 1. 다음 공역 및 진행률 표시
-![다음 공역과 진행률 표시 화면](right-top.png)
+![다음 공역과 진행률 표시 화면](right-top_kor.png)
 > 화면 상단에 다음 시간대의 공역 정보와 갱신까지 남은 시간을 표시합니다. (설정에 따라 남은 시간 위치 변경, 현재 공역, 진행률 바, 반투명 배경 패널 등을 자유롭게 설정할 수 있습니다.)
 
 ### 2. 우버디아(Diablo Clone) 진행도 표시
-![우버디아 진행율 서버별 표시](right-bottom.png)
+![우버디아 진행율 서버별 표시](right-bottom_kor.png)
 > 화면 우측 하단에 아시아, 유럽, 아메리카 서버의 현재 우버디아 진행도를 6단계 블록(`■■■□□□`)으로 직관적으로 표시합니다.
 
 ---
@@ -35,7 +35,7 @@
 * **스마트한 UI 자동 숨김:** 디아블로 2 게임 화면이 활성화(포커스)된 상태에서만 오버레이가 표시되며, 웹 브라우저 등 다른 창을 볼 때는 화면을 가리지 않도록 자동으로 숨겨집니다. 다중 클라이언트(멀티 로더) 사용 시에도 현재 활성화된 클라이언트 위에 정상적으로 표시됩니다.
 * **창 모드 완벽 지원:** 게임을 창 모드로 실행할 경우에도 타이틀바를 침범하지 않고 게임 화면 내부에 정확히 위치하도록 자동 조정됩니다.
 * **사용자 맞춤형 폰트 적용 (.ttf):** 디아블로 스타일 폰트 등 원하는 `.ttf` 폰트 파일을 프로그램과 같은 폴더에 넣기만 하면, 환경설정 목록에 자동으로 나타나 오버레이 전체에 즉시 적용할 수 있습니다.
-* **🔔 스마트 즐겨찾기 알림:** 원하는 공역을 즐겨찾기로 등록해 두면, 해당 공역 발견 시 및 시작 5분 전에 **부드러운 텍스트 깜빡임**과 **소리(띵동)**로 알려줍니다. ('1층', 'Level 1' 등의 층수 명칭은 자동으로 생략되어 목록이 깔끔하게 통합 관리됩니다.)
+* **🔔 스마트 즐겨찾기 알림:** 원하는 공역을 즐겨찾기로 등록해 두면, 해당 공역 발견 시 및 시작 5분 전에 **부드러운 텍스트 깜빡임**과 **소리(띵동)** 로 알려줍니다. ('1층', 'Level 1' 등의 층수 명칭은 자동으로 생략되어 목록이 깔끔하게 통합 관리됩니다.)
 * **🎨 자유로운 레이아웃 & 슬림 UI:** '남은 시간'을 왼쪽이나 오른쪽 중 원하는 곳에 배치할 수 있으며, 반투명 다크 패널, 현재 공역 표시, 진행바 등을 입맛에 맞게 독립적으로 켜고 끌 수 있습니다.
 * **우버디아 프로그레스 바:** 아시아, 유럽, 아메리카 서버의 진행도를 우측 하단에 실시간으로 표시합니다.
 * **⚡ 초절전 스마트 폴링:** 트래픽과 리소스 낭비를 막기 위해 정교하게 설계되었습니다. 공역 정보는 시작 시간에만 호출하며, 우버디아 현황은 이벤트가 잦은 정각 및 30분 근처(±5분)에는 30초마다, 그 외의 조용한 시간대에는 2분마다 동기화합니다.
@@ -122,11 +122,11 @@ However, if you found this tool helpful for your gameplay and wish to support it
 ## 📸 Screenshots
 
 ### 1. Next Terror Zone & Progress Bar
-![Terror Zone Screen](right-top.png)
+![Terror Zone Screen](right-top_eng.png)
 > Displays the next Terror Zone and the remaining time until the next update. (You can independently toggle the Current TZ, Progress Bar, Translucent Dark Background, and Time Position in the settings.)
 
 ### 2. Diablo Clone Progression
-![Diablo Clone Screen](right-bottom.png)
+![Diablo Clone Screen](right-bottom_eng.png)
 > Displays the current Diablo Clone progression for Asia, Europe, and Americas servers in a 6-stage block format (`■■■□□□`) at the bottom right.
 
 ---
